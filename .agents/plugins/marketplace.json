@@ -5,10 +5,10 @@
   },
   "plugins": [
     {
-      "name": "open-research-index",
+      "name": "delphi",
       "source": {
         "source": "local",
-        "path": "./plugins/open-research-index"
+        "path": "./plugins/delphi"
       },
       "policy": {
         "installation": "AVAILABLE",

@@ -7,8 +7,8 @@
   },
   "plugins": [
     {
-      "name": "open-research-index",
-      "source": "./plugins/open-research-index",
+      "name": "delphi",
+      "source": "./plugins/delphi",
       "description": "Search papers, preprints, and formal proofs with the technical responses linked to them, and vote, comment, or post in the research forum under your GitHub login.",
       "category": "research"
     }

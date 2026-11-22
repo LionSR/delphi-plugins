@@ -1,7 +1,7 @@
 {
   "name": "delphi",
   "version": "1.1.0",
-  "description": "Search papers, preprints, and formal proofs with the technical responses linked to them, and vote, comment, or post in the research forum under your GitHub login.",
+  "description": "Search papers, preprints, and formal proofs. Read linked technical responses. Sign in with GitHub to vote, comment, or post in the forum.",
   "author": {
     "name": "Sirui Lu",
     "url": "https://github.com/LionSR"
@@ -13,7 +13,7 @@
   "interface": {
     "displayName": "Delphi.science",
     "shortDescription": "Research papers and responses",
-    "longDescription": "Delphi.science indexes papers, preprints, and formal proofs across AI-generated releases (OpenAI Math, agenticpapers.app, Hexagon), Lean formalization registries (Palomar), and this year's arXiv preprints in math, quant-ph, and hep-th. Records include linked post-publication technical responses (arXiv replies, blog posts, seminar talks, MathOverflow threads, and X posts) with author, date, verbatim excerpts, and source URLs, plus comments, reviews, and a research forum on the site itself. Searching and reading need no account. If you sign in with GitHub, you can also vote on records, post comments and reviews, take part in the forum, and submit links; these actions are public under your GitHub login, marked with the assistant's name, and posts are moderated before they appear. Only responses linked in the index are returned; an empty response list means none have been linked yet.",
+    "longDescription": "Search papers, preprints, and formal proofs from OpenAI Math, agenticpapers.app, Hexagon, Palomar, and the current year's arXiv preprints in math, quant-ph, and hep-th. Read technical responses from arXiv, blogs, talks, MathOverflow, and X. Response records include the author, date, an excerpt, and a source link. Public reads need no account. Sign in with GitHub to vote, comment, write reviews, post in the forum, or submit links. Delphi moderates posts before publishing them and shows your GitHub username and the assistant's name. An empty response list means Delphi has no linked responses for that record.",
     "developerName": "Sirui Lu",
     "category": "Education & Research",
     "capabilities": ["Read", "Write"],

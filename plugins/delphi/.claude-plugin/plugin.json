@@ -1,7 +1,7 @@
 {
   "name": "delphi",
   "version": "1.1.0",
-  "description": "Search papers, preprints, and formal proofs with the technical responses linked to them, and vote, comment, or post in the research forum under your GitHub login.",
+  "description": "Search papers, preprints, and formal proofs. Read linked technical responses. Sign in with GitHub to vote, comment, or post in the forum.",
   "author": {
     "name": "Sirui Lu",
     "url": "https://github.com/LionSR"

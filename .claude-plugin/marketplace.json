@@ -1,6 +1,6 @@
 {
   "name": "delphi-plugins",
-  "description": "Delphi.science: papers, preprints and formal proofs with the technical responses they received, as tools for Claude Code.",
+  "description": "Delphi.science plugin for Claude Code.",
   "owner": {
     "name": "Sirui Lu",
     "url": "https://github.com/LionSR"
@@ -9,7 +9,7 @@
     {
       "name": "delphi",
       "source": "./plugins/delphi",
-      "description": "Search papers, preprints, and formal proofs with the technical responses linked to them, and vote, comment, or post in the research forum under your GitHub login.",
+      "description": "Search papers, preprints, and formal proofs. Read linked technical responses. Sign in with GitHub to vote, comment, or post in the forum.",
       "category": "research"
     }
   ]
